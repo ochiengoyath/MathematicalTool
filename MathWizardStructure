@@ -1,0 +1,83 @@
+Structure Tree of Math Wizard.
+
+MainMenu
+  1. Calculator
+  2. Generators
+      1. LCM/GCD
+          1. L.C.M.
+          2. G.C.D
+      2. Perfect Squares & Roots
+          1. Perfect Squares of Numbers
+          2. Perfect Square Root of Numbers
+          3. Perfect Cubed Root of Numbers
+      3. Prime Numbers
+      4. Factorials
+          1. Factorials
+          2. Permutations
+          3. Combinations
+      5. FibonacciNumbers
+      6. Exponentials
+
+  3. Converters
+      1. Fahrenheit/Celsius
+          1. Fahrenheit to Celsius
+          2. Celsius to Fahrenheit
+      2. Miles/Kilometres
+          1. Miles to Kilometres
+          2. Kilometres to Miles
+      3. Yards/Metres
+          1. Yards to Metres
+          2. Metres to Yards
+      4. Decimal/Percentage
+          1. Decimal to Percentage
+          2. Percentage to Decimal
+      5. Pounds/Kilogrammes
+          1. Pounds to Kilogrammes
+          2. Kilogrammes to Pounds
+
+  4. Geometry
+      1. Area of Polygons
+          1. Triangle
+          2. Square
+          3. Rectangle
+          4. Circle
+      2. Perimeter of Polygons
+          1. Triangle
+          2. Square
+          3. Rectangle
+          4. Circle
+      3. Volume of Solids
+          1.Tetrahedron
+          2.Cube
+          3.Cuboid
+          4.Sphere
+          5.Cylinder
+          6.Cone
+          7.Square Pyramid
+      4. Surface Area of Solids
+          1.Tetrahedron
+          2.Cube
+          3.Cuboid
+          4.Sphere
+          5.Cylinder
+          6.Cone
+          7.Square Pyramid
+      5. Surface Area To Volume Ratio of Solids
+          1.Tetrahedron
+          2.Cube
+          3.Cuboid
+          4.Sphere
+          5.Cylinder
+          6.Cone
+          7.Square Pyramid
+  5. Statistics
+      1. Mean, Median & Mode
+      2. Data Spread: Standard Deviation and Variance
+          1.Population
+          2.Sample
+      3. Sampling
+      4. X/Y Coordinates
+  6. Trigonometry
+  7. Calculus
+  8. Matrix
+  9.

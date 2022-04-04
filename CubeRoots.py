@@ -1,0 +1,47 @@
+# CubeRoots.py
+
+from StandardModule import ModuleReload, Logo
+from InputModule import IntInput, RangeFrom, RangeTo, NonNegative,  Switch, Loop
+from importlib import reload
+
+print()
+# Find Cube roots in a Range
+print('  Calculate the Cubes of Numbers in a Range.')
+
+From = RangeFrom(None)
+for x in Loop:
+    if From == NonNegative(From):
+        From = RangeFrom(None)
+
+
+To = RangeTo(None)
+for x in Loop:
+    if To == NonNegative(To):
+        To = RangeTo(None)
+
+Nums = []
+Cubes = []
+for num in range(From, To):
+    cub = (num ** 3)
+    Nums.append(num)
+    Cubes.append(cub)
+
+print('  These are the Numbers and their Cubes:')
+print('  Numbers, Cubes', '  ', list(zip(Nums, Cubes)))
+
+print()
+Logo()
+ModuleReload()
+n = None
+n = IntInput(None)
+Switch(n)
+if n == 1:
+    import CubeRoots
+    reload(CubeRoots)
+
+elif n == 2:
+    import ExitMenu
+    reload(ExitMenu)
+
+import ExitMenu
+reload(ExitMenu)

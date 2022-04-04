@@ -1,0 +1,7 @@
+MAT WIZARD BUGS:
+- Calculator
+    - Does not return zero inputs
+- PrimeNumbersIdentification
+    - Input From & To does not return negative & zero values
+- SetsOfRandom
+    - Check for illegal inputs (non integers)  
